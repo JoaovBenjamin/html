@@ -3,6 +3,14 @@
     padding: 0px;
 }
 
+nav {
+  background-color: #1C1C1C;
+  color: white;
+  overflow: hidden;
+
+}
+
+
 nav ul {
     display: flex;
     list-style: none;
@@ -26,5 +34,11 @@ nav ul {
     border-radius: 5px;
     margin-right: 10px;
     white-space: nowrap;
+    color: #BFBFBF
+    
   }
    
+  body {
+    background-color: #333333;
+    color: white;
+  }

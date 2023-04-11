@@ -3,6 +3,13 @@
     padding: 0px;
 }
 
+
+nav {
+  background-color: #1C1C1C;
+  color: white;
+}
+
+
 nav ul {
     display: flex;
     list-style: none;
@@ -26,6 +33,7 @@ nav ul {
     border-radius: 5px;
     margin-right: 10px;
     white-space: nowrap;
+    color: #BFBFBF
   }
    
 header.header{
@@ -48,4 +56,16 @@ div.Ideia{
 h3.position{
     text-align: center;
     margin-top: 30px;
+}
+
+span {
+  line-height: 30px;
+  letter-spacing: 5px;
+  margin-bottom: 30px;
+}
+
+
+body {
+  background-color: #333333;
+  color: white;
 }
